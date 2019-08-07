@@ -2,7 +2,7 @@
     "name": "monsters-rolodex",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://arasta1993query.github.io/monsters-rolodex",
+    "homepage": "https://arasta1993query.github.io/monsters-rolodex2",
     "dependencies": {
         "add": "^2.0.6",
         "gh-pages": "^2.1.0",
